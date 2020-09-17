@@ -2,8 +2,7 @@
 
 //////////The server is deployed on heroku
 //// @ https://pacific-forest-47162.herokuapp.com/ 
-///I didn't use the server on kemverynice.com, so that
-//// You get both version of the quote section.
+
 
 
 
